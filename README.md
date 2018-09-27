@@ -1,4 +1,4 @@
-# Interactive Fiction Markup Language ver. 2.0
+# Interactive Fiction Markup Language ver. 2.0v
 
 Russian [Interactive Fiction](http://ifwiki.org/index.php/Interactive_fiction) Platform ([parser](http://ifwiki.org/index.php/Parser)).
 
